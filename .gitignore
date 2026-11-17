@@ -1,0 +1,5 @@
+node_modules/
+.pio/
+__pycache__/
+.pytest_cache/
+~$*.pptx
